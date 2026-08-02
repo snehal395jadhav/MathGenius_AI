@@ -1,0 +1,21 @@
+-r requirements_v3.txt
+
+# Optional orchestration and production vector-store adapters.
+# The built-in RAG workspace works without these packages.
+langchain
+langchain-openai
+langgraph
+llama-index
+chromadb
+sentence-transformers
+datasets
+
+
+Added AI Engineering Studio with:Document ingestion
+Adjustable chunking and overlap
+Local TF-IDF vector database
+Cosine similarity retrieval
+RAG generation with evidence
+Prompt-injection protection
+Fine-tuning JSONL dataset builder
+LlamaIndex, LangChain, LangGraph, and ChromaDB adapters
