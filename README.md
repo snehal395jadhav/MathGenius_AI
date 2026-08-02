@@ -39,7 +39,7 @@
 
 <a href="https://www.loom.com/share/32caed0753f44c688a80f5743a147f0f" target="_blank">
 
-<img src="https://raw.githubusercontent.com/snehal395jadhav/MathGenius_AI/main/Screenshot(2).png"  width="95%"/>
+<img src="https://raw.githubusercontent.com/snehal395jadhav/MathGenius_AI/main/Screenshot (2).png"  width="95%"/>
 
 </a>
 
