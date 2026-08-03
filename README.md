@@ -37,13 +37,13 @@
 
 ## Project Preview
 
-<a href="https://www.loom.com/share/32caed0753f44c688a80f5743a147f0f" target="_blank">
+<a href="https://www.loom.com/share/037b3731c85147718e14b25a85a8488b" target="_blank">
 
 <img src="https://raw.githubusercontent.com/snehal395jadhav/MathGenius_AI/main/Screenshot (2).png"  width="95%"/>
 
 </a>
 
-👉 [Click here to watch full screen demo](https://www.loom.com/share/32caed0753f44c688a80f5743a147f0f)
+👉 [Click here to watch full screen demo](https://www.loom.com/share/037b3731c85147718e14b25a85a8488b)
 
 ### White, Electric Purple and Cyan Mathematics Workspace
 
